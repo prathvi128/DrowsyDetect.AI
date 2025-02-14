@@ -21,7 +21,7 @@ Weather and news updates:Fetches real-time weather and news to keep the driver i
 
 <p>The shape_predictor_68_face_landmarks.dat file is required for detecting 68 facial landmarks using dlib. This model helps identify key facial features such as eyes, nose, mouth, and jawline.</p>
 Download it from here:
-http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2<br>
+http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
 
 
 
